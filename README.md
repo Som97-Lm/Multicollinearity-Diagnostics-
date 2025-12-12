@@ -41,7 +41,7 @@ To provide a clear, hands-on demonstration of:
 
 ---
 
-## 🚀 How to Use This Repository
+##  How to Use This Repository
 1. Clone the repository:
 
 git clone https://github.com/Som97-Lm/Multicollinearity-Diagnostics-1.git
